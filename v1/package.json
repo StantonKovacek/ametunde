@@ -1,0 +1,6 @@
+{
+    "name": "@ganbarodigital/ts-lib-packagename/v1",
+    "typings": "../lib/V1/index.d.ts",
+    "main": "../lib/V1/index.js",
+    "sideEffects": false
+  }
